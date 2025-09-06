@@ -23,7 +23,7 @@
 
 ## 🏆 Achievements
 
-- 🚀 **Founder & CEO — [Innovcyte Technologies](https://www.innovcyte.com)**  
+- 🚀 **Founder & CEO — [Innovcyte Technologies](https://www.innovcyte.com/)**  
   Innovcyte is a **UK-based global software firm** providing **consultancy, research & development, and product development**.  
   Our expertise spans **Web & Mobile Development, AI, Data Engineering, Analytics, UI/UX, Digital Marketing, and Cloud Services** — delivering **scalable, cost-effective, and reliable solutions** to real-world business challenges.  
 
@@ -34,13 +34,4 @@
 
 ## 📊 GitHub Stats
 
-![Fazle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlehannan&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlehannan&layout=compact&theme=tokyonight)  
-
----
-
-## 📫 Connect
-
-🌐 [Website](https://www.innovcyte.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/fazlehannan)  
-✉️ **fazlehannan@gmail.com**
+![Fazle's GitHub stats](https://github-readme-stats.vercel.app/api?u)
