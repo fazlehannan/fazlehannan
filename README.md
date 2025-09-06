@@ -34,4 +34,13 @@
 
 ## 📊 GitHub Stats
 
-![Fazle's GitHub stats](https://github-readme-stats.vercel.app/api?u)
+![Fazle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlehannan&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlehannan&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Connect
+
+🌐 [Website](https://www.innovcyte.com/)  
+💼 [LinkedIn](https://www.linkedin.com/in/fazlehannan)  
+✉️ **fazlehannan@gmail.com**
