@@ -1,15 +1,13 @@
 # 🌟 Hi, I’m **Fazle Hanan**
 
-🎓 MSc in **Artificial Intelligence (Intelligent Vision)** — *University of Lincoln, UK* (Distinction)  
-💼 Founder & CEO — [Innovcyte Technologies](https://www.innovcyte.com)  
-📍 Lincoln, England, UK  
+🔍 Exploring and passionate about **Data Engineering**, **Cloud Computing**, and **Edge Computing** — with a strong interest in their intersection to build **scalable, cost-effective, and reliable systems** that drive real-world impact.  
 
 ---
 
 ## 🚀 About Me
 - 🎓 MSc in Artificial Intelligence (Distinction) — *University of Lincoln, UK* (Lincoln Global Leaders Scholarship).  
 - 🎓 BS in Computer Science — *UET Peshawar* (Gold Medalist, 1st Position in Batch).  
-- 💼 Tech entrepreneur building **Innovcyte Technologies**, a UK-based global software firm.  
+- 💼 Tech entrepreneur leading **Innovcyte Technologies**, a UK-based global software firm.  
 - 🔹 Focused on **Data Engineering**, **Cloud Computing**, and **Edge Computing**.  
 - 🤝 Open to roles as **Data Engineer · Big Data Engineer · Cloud Engineer**.  
 
@@ -23,20 +21,26 @@
 
 ---
 
-## 🧪 Research & Experience
+## 🏆 Achievements
 
-- **Founder & CEO** — Innovcyte Technologies *(Oct 2024 – Present)*  
-  *Leading consultancy, R&D, and product development across Web/Mobile, AI, Data Engineering, and Cloud.*  
+- 🚀 **Founder & CEO — [Innovcyte Technologies](https://www.innovcyte.com)**  
+  Innovcyte is a **UK-based global software firm** providing **consultancy, research & development, and product development**.  
+  Our expertise spans **Web & Mobile Development, AI, Data Engineering, Analytics, UI/UX, Digital Marketing, and Cloud Services** — delivering **scalable, cost-effective, and reliable solutions** to real-world business challenges.  
 
-- **Research Assistant** — National Center for Big Data & Cloud Computing, UET Peshawar *(Nov 2020 – Jun 2021)*  
-  *Created a computer vision group, designed deep-learning pipelines for real-time Urdu/Arabic text recognition, and secured a PKR 10M research grant.*  
-
-- **Research Intern** — UET Peshawar *(Nov 2019 – Nov 2020)*  
-  *Worked on state-of-the-art cursive text detection & recognition models.*  
+- 💡 **Research Funding Achievement**  
+  At the **National Center for Big Data & Cloud Computing (NCBC), UET Peshawar**, I played a key role in securing a **PKR 10 Million research grant** by contributing to project design, proposal writing, and team leadership. This funding supported the establishment of a dedicated **computer vision research group** and the development of a pipeline for real-time Urdu/Arabic text recognition.  
 
 ---
 
 ## 📊 GitHub Stats
 
 ![Fazle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlehannan&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlehannan&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Connect
+
+🌐 [Website](https://www.innovcyte.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/fazlehannan)  
+✉️ **fazlehannan@gmail.com**
