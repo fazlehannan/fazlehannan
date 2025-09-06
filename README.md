@@ -7,7 +7,8 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Graduate in AI with a strong academic record (Lincoln Global Leaders Scholarship, Distinction).  
+- 🎓 MSc in Artificial Intelligence (Distinction) — *University of Lincoln, UK* (Lincoln Global Leaders Scholarship).  
+- 🎓 BS in Computer Science — *UET Peshawar* (Gold Medalist, 1st Position in Batch).  
 - 💼 Tech entrepreneur building **Innovcyte Technologies**, a UK-based global software firm.  
 - 🔹 Focused on **Data Engineering**, **Cloud Computing**, and **Edge Computing**.  
 - 🤝 Open to roles as **Data Engineer · Big Data Engineer · Cloud Engineer**.  
@@ -38,12 +39,4 @@
 ## 📊 GitHub Stats
 
 ![Fazle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlehannan&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fazlehannan&layout=compact&theme=tokyonight)  
-
----
-
-## 📫 Connect
-
-🌐 [Website](https://www.innovcyte.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/fazlehannan)  
-✉️ **fazlehannan@gmail.com**
+![Top Langs](https://github-readme-stats.vercel.)
