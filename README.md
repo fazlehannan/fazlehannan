@@ -1,6 +1,6 @@
 # 🌟 Hi, I’m **Fazle Hanan**
 
-🔍 Exploring and passionate about **Data Engineering**, **Cloud Computing**, and **Edge Computing** — with a strong interest in their intersection to build **scalable, cost-effective, and reliable systems** that drive real-world impact.  
+🔍 Exploring **Data Engineering** and **Cloud Computing** — with a strong interest in their **cross-domain applications** to build **scalable, cost-effective, and reliable systems** that create real-world impact.  
 
 ---
 
@@ -8,7 +8,7 @@
 - 🎓 MSc in Artificial Intelligence (Distinction) — *University of Lincoln, UK* (Lincoln Global Leaders Scholarship).  
 - 🎓 BS in Computer Science — *UET Peshawar* (Gold Medalist, 1st Position in Batch).  
 - 💼 Tech entrepreneur leading **Innovcyte Technologies**, a UK-based global software firm.  
-- 🔹 Focused on **Data Engineering**, **Cloud Computing**, and **Edge Computing**.  
+- 🔹 Focused on **Data Engineering**, **Cloud Computing**, and their **applications across domains**.  
 - 🤝 Open to roles as **Data Engineer · Big Data Engineer · Cloud Engineer**.  
 
 ---
@@ -43,4 +43,4 @@
 
 🌐 [Website](https://www.innovcyte.com/)  
 💼 [LinkedIn](https://www.linkedin.com/in/fazlehannan)  
-✉️ **fazlehannan@gmail.com**
+✉️ **fazlehannan@gmail.com**  
