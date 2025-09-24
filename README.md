@@ -1,6 +1,6 @@
 # 🌟 Hi, I’m **Fazle Hanan**
 
-🔍 Exploring **Data Engineering** , **Cloud Computing** and **DevOps** —  with a strong interest in their **cross-domain applications** to build **scalable, cost-effective, and reliable systems** that create real-world impact.  
+🔍 Exploring **Data Engineering** and **Cloud Computing** —  with a strong interest in their **cross-domain applications** to build **scalable, cost-effective, and reliable systems** that create real-world impact.  
 
 ---
 
