@@ -1,6 +1,6 @@
 # 🌟 Hi, I’m **Fazle Hanan**
 
-🔍 Exploring **Data Engineering** and **Cloud Computing** —  with a strong interest in their **cross-domain applications** to build **scalable, cost-effective, and reliable systems** that create real-world impact.  
+🔍 Exploring **Cloud, DevOps & Data Engineering** —  with a strong interest in their **cross-domain applications** to build **scalable, cost-effective, and reliable systems** that create real-world impact.  
 
 ---
 
@@ -8,8 +8,8 @@
 - 🎓 MSc in Artificial Intelligence (Distinction) — *University of Lincoln, UK* (Lincoln Global Leaders Scholarship).  
 - 🎓 BS in Computer Science — *UET Peshawar* (Gold Medalist, 1st Position in Batch).  
 - 💼 Tech entrepreneur leading **Innovcyte Technologies**, a UK-based global software firm.  
-- 🔹 Focused on **Data Engineering**, **Cloud Computing**, and their **applications across domains**.  
-- 🤝 Open to roles as **Data Engineer · Big Data Engineer · Cloud Engineer**.  
+- 🔹 Focused on **Cloud , DevOps & Data Engineering**, and their **applications across domains**.  
+- 🤝 Open to roles as **Data Engineer · Big Data Engineer · Cloud Engineer & DevOps Engineer**.  
 
 ---
 
