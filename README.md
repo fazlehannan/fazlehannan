@@ -6,8 +6,7 @@
 
 ## 🚀 About Me
 - 🎓 MSc in Artificial Intelligence (Distinction) — *University of Lincoln, UK* (Lincoln Global Leaders Scholarship).  
-- 🎓 BS in Computer Science — *UET Peshawar* (Gold Medalist, 1st Position in Batch).  
-- 💼 Tech entrepreneur leading **Innovcyte Technologies**, a UK-based global software firm.  
+- 🎓 BS in Computer Science — *UET Peshawar* (Gold Medalist, 1st Position in Batch).   
 - 🔹 Focused on **Cloud , DevOps & Data Engineering**, and their **applications across domains**.  
 - 🤝 Open to roles as **Data Engineer · Big Data Engineer · Cloud Engineer & DevOps Engineer**.  
 
