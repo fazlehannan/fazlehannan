@@ -23,7 +23,7 @@
 ## 🏆 Achievements
 
 - 🚀 **Founder & CEO — [Innovcyte Technologies](https://www.innovcyte.com/)**  
-  Innovcyte is a **UK-based global software firm** providing **consultancy, research & development, and product development**.  
+  Innovcyte is a **global software firm** providing **consultancy, research & development, and product development**.  
   Our expertise spans **Web & Mobile Development, AI, Data Engineering, Analytics, UI/UX, Digital Marketing, and Cloud Services** — delivering **scalable, cost-effective, and reliable solutions** to real-world business challenges.  
 
 - 💡 **Research Funding Achievement**  
