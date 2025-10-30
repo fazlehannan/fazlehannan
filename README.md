@@ -18,16 +18,8 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF8000?style=for-the-badge&logo=mathworks&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)  
 
----
 
-## 🏆 Achievements
 
-- 🚀 **Founder & CEO — [Innovcyte Technologies](https://www.innovcyte.com/)**  
-  Innovcyte is a **global software firm** providing **consultancy, research & development, and product development**.  
-  Our expertise spans **Web & Mobile Development, AI, Data Engineering, Analytics, UI/UX, Digital Marketing, and Cloud Services** — delivering **scalable, cost-effective, and reliable solutions** to real-world business challenges.  
-
-- 💡 **Research Funding Achievement**  
-  At the **National Center for Big Data & Cloud Computing (NCBC), UET Peshawar**, I played a key role in securing a **PKR 10 Million research grant** by contributing to project design, proposal writing, and team leadership. This funding supported the establishment of a dedicated **computer vision research group** and the development of a pipeline for real-time Urdu/Arabic text recognition.  
 
 ---
 
