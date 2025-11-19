@@ -32,6 +32,5 @@
 
 ## 📫 Connect
 
-🌐 [Website](https://www.innovcyte.com/)  
 💼 [LinkedIn](https://www.linkedin.com/in/fazlehannan)  
 ✉️ **fazlehannan@gmail.com**  
