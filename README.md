@@ -1,14 +1,14 @@
 # 🌟 Hi, I’m **Fazle Hanan**
 
-🔍 Exploring **Cloud, DevOps & Data Engineering** —  with a strong interest in their **cross-domain applications** to build **scalable, cost-effective, and reliable systems** that create real-world impact.  
+🔍 Exploring **Cloud & DevOps** —  with a strong interest in their **cross-domain applications** to build **scalable, cost-effective, and reliable systems** that create real-world impact.  
 
 ---
 
 ## 🚀 About Me
 - 🎓 MSc in Artificial Intelligence (Distinction) — *University of Lincoln, UK* (Lincoln Global Leaders Scholarship).  
 - 🎓 BS in Computer Science — *UET Peshawar* (Gold Medalist, 1st Position in Batch).   
-- 🔹 Focused on **Cloud , DevOps & Data Engineering**, and their **applications across domains**.  
-- 🤝 Open to roles as **Data Engineer · Big Data Engineer · Cloud Engineer & DevOps Engineer**.  
+- 🔹 Focused on **Cloud & DevOps**, and their **applications across domains**.  
+- 🤝 Open to roles as **Cloud Engineer & DevOps Engineer**.  
 
 ---
 
