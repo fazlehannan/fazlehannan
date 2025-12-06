@@ -1,6 +1,6 @@
 # 🌟 Hi, I’m **Fazle Hanan**
 
-🔍 Exploring **Cloud & DevOps** —  with a strong interest in their **cross-domain applications** to build **scalable, cost-effective, and reliable systems** that create real-world impact.  
+I’m transitioning from a research background in Computer Vision and AI into Cloud, DevOps, and modern infrastructure engineering. I’m driven by the challenge of designing scalable, automated, and cost-efficient systems, focusing on deeply understanding real-world problems and engineering robust, end-to-end solutions that leverage cloud platforms, DevOps practices, and their intersection with other technologies to unlock new value. I’m actively seeking opportunities to contribute and collaborate on building reliable, resilient, and high-impact solutions to complex real-world challenges.  
 
 ---
 
