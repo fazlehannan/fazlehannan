@@ -1,8 +1,5 @@
 # 🌟 Hi, I’m **Fazle Hanan**
-
-I believe in the philosophy of Nobel laureate Richard Feynman, which is to study what interests you the most in the most undisciplined, irreverent, and original manner possible. Transitioning from a research background in Computer Vision, and motivated by my love for tangents and playful exploration.
-
-I’m actively seeking opportunities to contribute and collaborate on building reliable, resilient, and high-impact solutions to complex real-world challenges.  
+Computer Science graduate with a strong foundation in theoretical and applied computing. Experienced in academic projects, research activities, and applying technology to solve real-world problems.
 
 ---
 
