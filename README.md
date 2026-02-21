@@ -1,5 +1,4 @@
-# 🌟 Hi, I’m **Fazle Hanan**
-Computer Science graduate with a strong foundation in theoretical and applied computing. Experienced in academic projects, research activities, and applying technology to solve real-world problems.
+# 🌟 Hi,
 
 ---
 
