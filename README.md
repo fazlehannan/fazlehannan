@@ -1,3 +1,48 @@
+# 👨‍💻 About Me  
+
+I am a Computer Science graduate with a strong foundation in both theoretical and applied computing, along with experience in leading research initiatives, establishing research groups, and contributing to competitive, grant-funded projects. My academic and research journey has been shaped by work on intelligent & data-intensive systems during my Master’s at the University of Lincoln and earlier at the National Center for Big Data and Cloud Computing.  
+
+### 🔷 Research Interests & Long-Term Career Goals  
+
+My current research interests lie in artificial intelligence, as I prepare to pursue doctoral (PhD) studies in this field. My long-term goal is to build a career in academia while engaging in research and development (R&D), contributing to the advancement of intelligent computing systems.
+
+### 🔷 Currently Seeking  
+
+I am actively seeking a Lecturer position in Computer Science. I am passionate about teaching and committed to creating an engaging learning environment that equips students with strong theoretical foundations and practical, real-world skills. I aim to contribute to academia by both educating future computing professionals and conducting impactful research.
+
+---
+
+# 📌 Pinned Repositories  
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/fazlehannan/intelligent-data-systems">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=intelligent-data-systems&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/fazlehannan/ml-algorithms-from-scratch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=ml-algorithms-from-scratch&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/fazlehannan/research-papers">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=research-papers&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/fazlehannan/academic-resources">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=academic-resources&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 # 🛠️ Tools & Technologies  
 
 <p>
