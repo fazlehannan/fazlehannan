@@ -1,34 +1,3 @@
-# 📌 Pinned Repositories
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/fazlehannan/intelligent-data-systems">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=intelligent-data-systems&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/fazlehannan/ml-algorithms-from-scratch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=ml-algorithms-from-scratch&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/fazlehannan/research-papers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=research-papers&theme=tokyonight" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/fazlehannan/academic-resources">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=academic-resources&theme=tokyonight" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 # 👨‍💻 About Me  
 
 I am a Computer Science graduate with a strong foundation in both theoretical and applied computing, along with experience in leading research initiatives, establishing research groups, and contributing to competitive, grant-funded projects. My academic and research journey has been shaped by work on intelligent & data-intensive systems during my Master’s at the University of Lincoln and earlier at the National Center for Big Data and Cloud Computing.  
@@ -43,11 +12,42 @@ I am actively seeking a Lecturer position in Computer Science. I am passionate a
 
 ---
 
+# 📌 Pinned Repositories  
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/fazlehannan/intelligent-data-systems">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=intelligent-data-systems&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/fazlehannan/ml-algorithms-from-scratch">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=ml-algorithms-from-scratch&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/fazlehannan/research-papers">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=research-papers&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/fazlehannan/academic-resources">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=academic-resources&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 # 🛠️ Tools & Technologies  
 
 <p>
   <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=Mathworks&logoColor=orange" />
+  <img src="https://img.shields.io/badge/MATLAB-111111?style=for-the-badge&logo=Mathworks&logoColor=F97316" />
   <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=FCC624" />
   <img src="https://img.shields.io/badge/Google%20Colab-111111?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />
 </p>
@@ -56,13 +56,17 @@ I am actively seeking a Lecturer position in Computer Science. I am passionate a
 
 # 📊 GitHub Stats  
 
-<img src="https://github-readme-stats.vercel.app/api?username=fazlehannan&show_icons=true&theme=tokyonight" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=fazlehannan&show_icons=true&theme=tokyonight&hide_border=false&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=A78BFA&border_color=30363D&custom_title=Fazle's%20GitHub%20stats" 
+/>
 
 ---
 
 # 📊 GitHub Contribution Summary  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fazlehannan&theme=tokyonight&hide_border=false" />
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com?user=fazlehannan&theme=tokyonight&hide_border=false&background=00000000&border=30363D&stroke=30363D&ring=FF3860&fire=FF9F1C&currStreakNum=FF3860&currStreakLabel=FF3860&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" 
+/>
 
 ---
 
