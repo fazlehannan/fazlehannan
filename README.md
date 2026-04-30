@@ -41,15 +41,14 @@ I am actively seeking a Lecturer position in Computer Science. I am passionate a
 
 ---
 
-## 📈 GitHub Contribution Summary  
+## 📊 GitHub Contribution Summary  
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazlehannan&theme=tokyonight" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fazlehannan&theme=tokyonight&utcOffset=6" />
 
 ---
 
-## 📫 Let’s Connect  
+## 🔗 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fazlehannan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fazlehannan@gmail.com)
