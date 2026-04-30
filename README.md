@@ -56,12 +56,10 @@ I am actively seeking a Lecturer position in Computer Science. I am passionate a
 # 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fazlehannan&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fazlehannan&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazlehannan&theme=tokyonight" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=fazlehannan&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=A78BFA&border_color=30363D&custom_title=Fazle's%20GitHub%20stats" 
+    width="100%"
+  />
 </p>
 
 ---
