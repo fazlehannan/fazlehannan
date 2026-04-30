@@ -18,24 +18,24 @@ I am actively seeking a Lecturer position in Computer Science. I am passionate a
   <tr>
     <td>
       <a href="https://github.com/fazlehannan/intelligent-data-systems">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=intelligent-data-systems&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=intelligent-data-systems&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
       </a>
     </td>
     <td>
       <a href="https://github.com/fazlehannan/ml-algorithms-from-scratch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=ml-algorithms-from-scratch&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=ml-algorithms-from-scratch&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/fazlehannan/research-papers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=research-papers&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=research-papers&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
       </a>
     </td>
     <td>
       <a href="https://github.com/fazlehannan/academic-resources">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=academic-resources&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=academic-resources&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
       </a>
     </td>
   </tr>
