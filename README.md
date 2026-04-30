@@ -18,24 +18,24 @@ I am actively seeking a Lecturer position in Computer Science. I am passionate a
   <tr>
     <td>
       <a href="https://github.com/fazlehannan/intelligent-data-systems">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=intelligent-data-systems&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=intelligent-data-systems&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
       </a>
     </td>
     <td>
       <a href="https://github.com/fazlehannan/ml-algorithms-from-scratch">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=ml-algorithms-from-scratch&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=ml-algorithms-from-scratch&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/fazlehannan/research-papers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=research-papers&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=research-papers&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
       </a>
     </td>
     <td>
       <a href="https://github.com/fazlehannan/academic-resources">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=academic-resources&theme=tokyonight&bg_color=00000000&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=academic-resources&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
       </a>
     </td>
   </tr>
@@ -56,27 +56,42 @@ I am actively seeking a Lecturer position in Computer Science. I am passionate a
 
 # 📊 GitHub Stats  
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=fazlehannan&show_icons=true&theme=tokyonight&hide_border=false&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=A78BFA&border_color=30363D&custom_title=Fazle's%20GitHub%20stats" 
-/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=fazlehannan&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=A78BFA&border_color=30363D&custom_title=Fazle's%20GitHub%20stats" 
+    width="100%"
+  />
+</p>
 
 ---
 
 # 📊 GitHub Contribution Summary  
 
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com?user=fazlehannan&theme=tokyonight&hide_border=false&background=00000000&border=30363D&stroke=30363D&ring=FF3860&fire=FF9F1C&currStreakNum=FF3860&currStreakLabel=FF3860&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" 
-/>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com?user=fazlehannan&theme=tokyonight&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=FF3860&fire=FF9F1C&currStreakNum=FF3860&currStreakLabel=FF3860&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" 
+    width="100%"
+  />
+</p>
 
 ---
 
 # 🔗 Let’s Connect  
 
-<p>
-  <a href="https://www.linkedin.com/in/fazlehannan">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
-  </a>
-  <a href="mailto:fazlehannan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/fazlehannan">
+        <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /><br/>
+        linkedin.com/in/fazlehannan
+      </a>
+    </td>
+    <td align="center">|</td>
+    <td align="center">
+      <a href="mailto:fazlehannan@gmail.com">
+        <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" /><br/>
+        fazlehannan@gmail.com
+      </a>
+    </td>
+  </tr>
+</table>
