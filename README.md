@@ -1,4 +1,18 @@
-# Fazle Hanan Shaida 
+<div align="center" style="background-color:#111827; padding:25px; border:1px solid #374151;">
+
+<h1 style="color:#F9FAFB;">FAZLE HANAN SHAIDA</h1>
+
+<p style="color:#A78BFA;">
+  Researcher | MSc Intelligent Vision & AI (Distinction), UK | Gold Medalist in BS Computer Science
+</p>
+
+<p style="color:#60A5FA;">
+  Aspiring PhD Researcher
+</p>
+
+</div>
+
+---
 ### 👨‍💻 About Me
 
 I am a Computer Science graduate with a strong foundation in both theoretical and applied computing, along with experience in leading research initiatives, establishing research groups, and contributing to competitive, grant-funded projects. My academic and research journey has been shaped by work on intelligent & data-intensive systems during my Master’s at the University of Lincoln and earlier at the National Center for Big Data and Cloud Computing.  
