@@ -58,8 +58,7 @@ I am actively seeking a Lecturer position in Computer Science. I am passionate a
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=fazlehannan&show_icons=true&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=A78BFA&border_color=30363D&custom_title=Fazle%27s%20GitHub%20stats" 
-    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazlehannan&theme=tokyonight" 
   />
 </p>
 
