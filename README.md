@@ -29,32 +29,10 @@ I am actively seeking a Lecturer position in Computer Science. I am passionate a
 
 # 📌 Pinned Repositories  
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/fazlehannan/research-papers">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=research-papers&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/fazlehannan/books-notes">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=books-notes&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/fazlehannan/research-datasets">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=research-datasets&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/fazlehannan/useful-tools-research-academics">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=fazlehannan&repo=useful-tools-research-academics&theme=tokyonight&bg_color=0D1117&border_color=30363D&title_color=58A6FF&text_color=FFFFFF" />
-      </a>
-    </td>
-  </tr>
-</table>
+- 📄 [Research Papers](https://github.com/fazlehannan/research-papers)  
+- 📘 [Books & Notes](https://github.com/fazlehannan/books-notes)  
+- 📊 [Research Datasets](https://github.com/fazlehannan/research-datasets)  
+- 🧰 [Research Tools](https://github.com/fazlehannan/useful-tools-research-academics)  
 
 ---
 # 🛠️ Tools & Technologies  
