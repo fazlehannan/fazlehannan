@@ -60,7 +60,7 @@ I am actively seeking a Lecturer position in Computer Science. I am passionate a
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazlehannan&theme=tokyonight" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fazlehannan&theme=tokyonight&cache_seconds=1800&v=5" 
   />
 </p>
 
@@ -70,7 +70,7 @@ I am actively seeking a Lecturer position in Computer Science. I am passionate a
 
 <p align="center">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com?user=fazlehannan&theme=tokyonight&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=FF3860&fire=FF9F1C&currStreakNum=FF3860&currStreakLabel=FF3860&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E" 
+    src="https://streak-stats.demolab.com?user=fazlehannan&theme=tokyonight&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=FF3860&fire=FF9F1C&currStreakNum=FF3860&currStreakLabel=FF3860&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E&v=5" 
     width="100%"
   />
 </p>
