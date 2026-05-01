@@ -1,4 +1,5 @@
-# 👨‍💻 About Me  
+# Fazle Hanan Shaida 
+### 👨‍💻 About Me
 
 I am a Computer Science graduate with a strong foundation in both theoretical and applied computing, along with experience in leading research initiatives, establishing research groups, and contributing to competitive, grant-funded projects. My academic and research journey has been shaped by work on intelligent & data-intensive systems during my Master’s at the University of Lincoln and earlier at the National Center for Big Data and Cloud Computing.  
 
