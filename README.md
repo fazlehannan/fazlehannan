@@ -61,7 +61,6 @@ I am actively seeking a Lecturer position in Computer Science. I am passionate a
     width="100%"
   />
 </p>
-
 ---
 
 # 📊 GitHub Contribution Summary  
