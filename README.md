@@ -29,10 +29,9 @@ I am actively seeking a Lecturer position in Computer Science. I am passionate a
 
 # 📌 Pinned Repositories  
 
-- 📄 [Research Papers](https://github.com/fazlehannan/research-papers)  
+- 📄 [Research Papers & Datasets](https://github.com/fazlehannan/research-papers-datasets)  
 - 📘 [Books & Notes](https://github.com/fazlehannan/books-notes)  
-- 📊 [Research Datasets](https://github.com/fazlehannan/research-datasets)  
-- 🧰 [Research Tools](https://github.com/fazlehannan/useful-tools-research-academics)  
+- 🧰 [Research Tools](https://github.com/fazlehannan/useful-tools-research-academics)   
 
 ---
 # 🛠️ Tools & Technologies  
