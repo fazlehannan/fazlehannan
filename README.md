@@ -12,7 +12,6 @@ Science
 </p>
 Learning & Career Guiding Philosophy:
 “Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.” — Nobel Prize-winning physicist Richard Feynman
-Science
 </p>
 
 </div>
