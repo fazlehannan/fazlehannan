@@ -3,13 +3,11 @@
 <h1 style="color:#F9FAFB;">FAZLE HANAN SHAIDA</h1>
 
 <p style="color:#A78BFA;">
-  Researcher | MSc Intelligent Vision & AI (Distinction), UK | Gold Medalist in BS Computer Science
+  Aspiring PhD Researcher | Research Interest: Intersection of AI & Cybersecurity 
 </p>
-
-<p style="color:#60A5FA;">
-  Aspiring PhD Researcher
 </p>
-
+MSc Intelligent Vision -AI (Distinction), UK | Gold Medalist in BS Computer Science
+</p>
 </div>
 
 ---
@@ -19,7 +17,7 @@ I am a Computer Science graduate with a strong foundation in both theoretical an
 
 ### 🔷 Research Interests & Long-Term Career Goals  
 
-My current research interests lie in artificial intelligence, as I prepare to pursue doctoral (PhD) studies in this field. My long-term goal is to build a career in academia while engaging in research and development (R&D), contributing to the advancement of intelligent computing systems.
+My current research interests lie in the intersection of artificial intelligence & cybersecurity, as I prepare to pursue doctoral (PhD) studies in this field. My long-term goal is to build a career in academia while engaging in research and development (R&D), contributing to the advancement of intelligent & secure computing systems.
 
 ### 🔷 Currently Seeking  
 
