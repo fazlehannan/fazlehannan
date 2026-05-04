@@ -34,6 +34,7 @@ My long-term goal is to pursue a career in academia, combining teaching with res
 🔷 Currently Seeking
 I am seeking fully funded Doctoral Researcher / PhD opportunities in the intersection of AI and cybersecurity. Meanwhile, during the PhD selection and application process, I am also interested in working as a Lecturer in Computer Science.
 I am open to fully funded PhD positions in China, New Zealand, Ireland, and South Korea, as well as Lecturer roles in Pakistan.
+
 ---
 
 # 📌 Pinned Repositories  
