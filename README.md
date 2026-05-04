@@ -13,16 +13,27 @@ MSc Intelligent Vision -AI (Distinction), UK | Gold Medalist in BS Computer Scie
 ---
 ### 👨‍💻 About Me
 
-I am a Computer Science graduate with a strong foundation in both theoretical and applied computing, along with experience in leading research initiatives, establishing research groups, and contributing to competitive, grant-funded projects. My academic and research journey has been shaped by work on intelligent & data-intensive systems during my Master’s at the University of Lincoln and earlier at the National Center for Big Data and Cloud Computing.  
+I am a Computer Science graduate with a strong foundation in both theoretical and applied computing, along with experience in leading research initiatives, establishing research groups, and contributing to competitive, grant-funded projects during my role as a Research Assistant at the National Center for Big Data and Cloud Computing, UET Peshawar.
 
-### 🔷 Research Interests & Long-Term Career Goals  
+I hold an MSc in Artificial Intelligence (Distinction) from the University of Lincoln, UK, as a recipient of the Lincoln Global Leaders Scholarship, and a BS in Computer Science (awarded a Gold Medal for Academic Excellence).
 
-My current research interests lie in the intersection of artificial intelligence & cybersecurity, as I prepare to pursue doctoral (PhD) studies in this field. My long-term goal is to build a career in academia while engaging in research and development (R&D), contributing to the advancement of intelligent & secure computing systems.
+My research interests focus on the application of Explainable and Uncertainty-Aware AI in cybersecurity, aiming to develop intelligent, secure, and trustworthy systems. Areas of particular interest include:
 
-### 🔷 Currently Seeking  
+* Intrusion and malware detection and analysis
+* Cloud security
+* Social engineering
+* Security of LLMs, RAG, and agentic AI systems
+* IoT security
 
-I am actively seeking a Lecturer position in Computer Science. I am passionate about teaching and committed to creating an engaging learning environment that equips students with strong theoretical foundations and practical, real-world skills. I aim to contribute to academia by both educating future computing professionals and conducting impactful research.
+I actively document my learning and exploratory work through projects on GitHub:
+🔗 github.com/fazlehannan
 
+My long-term goal is to pursue a career in academia, combining teaching with research and development (R&D), and contributing to the advancement of intelligent and secure computing systems.
+
+ 
+🔷 Currently Seeking
+I am seeking fully funded Doctoral Researcher / PhD opportunities in the intersection of AI and cybersecurity. Meanwhile, during the PhD selection and application process, I am also interested in working as a Lecturer in Computer Science.
+I am open to fully funded PhD positions in China, New Zealand, Ireland, and South Korea, as well as Lecturer roles in Pakistan.
 ---
 
 # 📌 Pinned Repositories  
