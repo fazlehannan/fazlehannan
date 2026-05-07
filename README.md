@@ -23,7 +23,7 @@ I am a Computer Science graduate with a strong foundation in both theoretical an
 
 I hold an MSc in Artificial Intelligence (Distinction) from the University of Lincoln, UK, as a recipient of the Lincoln Global Leaders Scholarship, and a BS in Computer Science (awarded a Gold Medal for Academic Excellence).
 
-My research interests focus on the intersection of AI and cybersecurity, particularly the application of Explainable and Uncertainty-Aware AI in cybersecurity, aiming to develop intelligent, secure, and trustworthy systems, especially in areas such as intrusion and malware detection and analysis, cloud security, social engineering detection and analysis, & security of LLMs, RAG, and agentic AI systems.
+My research interests focus on the intersection of Trustworthy AI and cybersecurity, aiming to develop intelligent, secure, and trustworthy systems, especially in areas such as intrusion and malware detection and analysis, cloud security, social engineering detection and analysis, & security of LLMs, RAG, and agentic AI systems.
 
 I actively document my learning and exploratory work through projects on GitHub:
 🔗 github.com/fazlehannan
