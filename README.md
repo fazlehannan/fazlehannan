@@ -28,11 +28,10 @@ I hold an MSc in Artificial Intelligence (Distinction) from the University of Li
 
 My research interests focus on the intersection of Trustworthy AI and cybersecurity, aiming to develop intelligent, secure, and trustworthy systems, especially in areas such as intrusion and malware detection, analysis & response, cloud security, social engineering detection, analysis & response, security of LLMs, RAG, and agentic AI systems, & IoT security.
 
-I actively document my learning and exploratory work through projects on GitHub:
-🔗 github.com/fazlehannan
-
 My long-term goal is to pursue a career in academia, combining teaching with research and development (R&D), and contributing to the advancement of intelligent, secure, and trustworthy systems.
 
+I actively document my learning and exploratory work through projects on GitHub:
+🔗 github.com/fazlehannan
  
 🔷 Currently Seeking
 I am seeking fully funded Doctoral Researcher / PhD opportunities in the intersection of AI and cybersecurity. Meanwhile, during the PhD selection and application process, I am also interested in working as a Lecturer in Computer Science.
