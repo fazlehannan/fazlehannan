@@ -14,7 +14,7 @@ Learning & Career Guiding Philosophy:
 “Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.” — Nobel Prize-winning physicist Richard Feynman
 
 </p>
-Personally : Proud Husband of a Psychologist |  Love Culture, History,& Music | Advocate of Humanity, Gender Equality, & Peace | Rational Nonconformist
+Personally : Proud Husband of a Psychologist |  Love Culture, History,& Music | Advocate of Humanity, Gender Equality, & Peace | Rational Nonconformist | Hate Politics
 </p>
 
 </div>
