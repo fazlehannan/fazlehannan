@@ -3,7 +3,7 @@
 <h1 style="color:#F9FAFB;">FAZLE HANAN SHAIDA</h1>
 
 <p style="color:#A78BFA;">
-  Aspiring PhD Researcher | Research Interest: Intersection of AI & Cybersecurity 
+ Researcher | Research Interest: Intersection of AI & Cybersecurity 
 </p>
 </p>
 MSc Intelligent Vision -AI (Distinction), UK | Gold Medalist in BS Computer Science
@@ -32,10 +32,6 @@ My long-term goal is to pursue a career in academia, combining teaching with res
 
 I actively document my learning and exploratory work through projects on GitHub:
 🔗 github.com/fazlehannan
- 
-🔷 Currently Seeking
-I am seeking fully funded Doctoral Researcher / PhD opportunities in the intersection of AI and cybersecurity. Meanwhile, during the PhD selection and application process, I am also interested in working as a Lecturer in Computer Science.
-I am open to fully funded PhD positions in China, New Zealand, Ireland, and South Korea, as well as Lecturer roles in Pakistan.
 
 ---
 
