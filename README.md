@@ -12,6 +12,8 @@ Science
 </p>
 Learning & Career Guiding Philosophy:
 “Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.” — Nobel Prize-winning physicist Richard Feynman
+Nonconformist
+</p>
 Personally : Proud Husband of a Psychologist |  Love Culture, History, Music | Advocate of Humanity,Peace & Democracy | Rational Nonconformist
 </p>
 
