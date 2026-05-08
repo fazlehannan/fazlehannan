@@ -28,7 +28,7 @@ My research interests focus on the intersection of Trustworthy AI and cybersecur
 I actively document my learning and exploratory work through projects on GitHub:
 🔗 github.com/fazlehannan
 
-My long-term goal is to pursue a career in academia, combining teaching with research and development (R&D), and contributing to the advancement of intelligent and secure computing systems.
+My long-term goal is to pursue a career in academia, combining teaching with research and development (R&D), and contributing to the advancement of intelligent, secure, and trustworthy systems.
 
  
 🔷 Currently Seeking
