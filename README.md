@@ -41,7 +41,6 @@ I am open to fully funded PhD positions in China, New Zealand, Ireland, and Sout
 
 - 📄 [Research Papers & Datasets](https://github.com/fazlehannan/research-papers-datasets)  
 - 📘 [Books & Notes](https://github.com/fazlehannan/books-notes)  
-- 🧰 [Research Tools](https://github.com/fazlehannan/useful-tools-research-academics)   
 
 ---
 # 🛠️ Tools & Technologies  
