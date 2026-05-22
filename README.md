@@ -30,13 +30,6 @@ I actively document my learning and exploratory work through projects on GitHub:
 🔗 github.com/fazlehannan
 
 ---
-
-# 📌 Pinned Repositories  
-
-- 📄 [Research Papers & Datasets](https://github.com/fazlehannan/research-papers-datasets)  
-- 📘 [Books & Notes](https://github.com/fazlehannan/books-notes)  
-
----
 # 🛠️ Tools & Technologies  
 
 <p align="center">
