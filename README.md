@@ -2,10 +2,6 @@
 
 <h1 style="color:#F9FAFB;">FAZLE HANAN SHAIDA</h1>
 
-<p style="color:#A78BFA;">
-Lecturer @ Air University Multan Campus | Researcher | MSc Intelligent Vision -AI (Distinction), UK | Gold Medalist in BS Computer Science
-</p>
-
 </p>
 Learning & Career Guiding Philosophy:
 “Study hard what interests you the most in the most undisciplined, irreverent, and original manner possible.” — Nobel Prize-winning physicist Richard Feynman
