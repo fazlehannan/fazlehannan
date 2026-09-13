@@ -19,7 +19,7 @@ Personally : Proud Husband of a Psychologist |  Love Culture, History,& Music | 
 ---
 ### 👨‍💻 About Me
 
-I am a Computer Science graduate with a strong foundation in both theoretical and applied computing, having gained experience leading research initiatives, establishing research groups, and contributing to competitive, grant-funded projects in my role as a Research Assistant at the National Center for Big Data and Cloud Computing at UET Peshawar. I hold an MSc in Artificial Intelligence (Distinction) from the University of Lincoln, UK, as a recipient of the Lincoln Global Leaders Scholarship, and a BS in Computer Science (awarded a Gold Medal for Academic Excellence).
+I am a Lecturer in the Department of Computer Science at Air University Multan Campus, with a strong foundation in both theoretical and applied computing. I hold an MSc in Artificial Intelligence (Distinction) from the University of Lincoln, UK, as a recipient of the Lincoln Global Leaders Scholarship, and a BS in Computer Science, awarded a Gold Medal for Academic Excellence.
 
 I actively document my learning and exploratory work through projects on GitHub:
 🔗 github.com/fazlehannan
