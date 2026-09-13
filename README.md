@@ -3,10 +3,7 @@
 <h1 style="color:#F9FAFB;">FAZLE HANAN SHAIDA</h1>
 
 <p style="color:#A78BFA;">
- Researcher 
-</p>
-</p>
-MSc Intelligent Vision -AI (Distinction), UK | Gold Medalist in BS Computer Science
+Lecturer @ Air University Multan Campus | Researcher | MSc Intelligent Vision -AI (Distinction), UK | Gold Medalist in BS Computer Science
 </p>
 
 </p>
