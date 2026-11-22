@@ -17,6 +17,11 @@ Personally : Proud Husband of a Psychologist | Proud Pakistani | Love Culture, H
 
 I am a Lecturer in the Department of Computer Science at Air University Multan Campus, with a strong foundation in both theoretical and applied computing. I hold an MSc in Intelligent Vision (Distinction) from the University of Lincoln, UK, as a recipient of the Lincoln Global Leaders Scholarship, and a BS in Computer Science, awarded a Gold Medal for Academic Excellence.
 
+My long-term goal is to pursue a career in academia, integrating teaching with research and development (R&D), preparing
+industry-ready computing graduates, and contributing to solutions for real-world industry challenges through technological
+innovation that benefits society. I also aspire to mentor and lead graduate-level researchers, fostering a collaborative and
+research-driven academic environment
+
 I actively document my learning and exploratory work through projects on GitHub:
 🔗 github.com/fazlehannan
 
